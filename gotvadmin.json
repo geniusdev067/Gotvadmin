@@ -1,0 +1,14 @@
+id": "d582fc1ac12949e3",
+    "username": "Edtechadmin",
+    "password": "Tech067",
+    "expiresAt": "2026-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "Trevoradmin",
+    "password": "Tech067",
+    "expiresAt": "2025-12-30",
+    "allowOffline": false
+  }
+]
